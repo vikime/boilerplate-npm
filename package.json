@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "In this project i am going to create small app like url shortner",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
